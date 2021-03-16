@@ -15,4 +15,4 @@ MonoBehaviour:
   name: 
   cardType: 
   artwork: {fileID: 0}
-  cardValue: 0
+  cardValue: 4
